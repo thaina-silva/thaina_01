@@ -1,2 +1,4 @@
-oiiiiii  
-tudo bem 
+#include <stdio.h>
+void main() {
+	printf ("hello word")
+}
